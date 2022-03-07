@@ -1,6 +1,6 @@
-零售版的Office 可以通過簡單的腳本轉換為VOL 版的Office
+零售版的Office 可以通過
 
-零售版的Office 簡單激活方法：
+零售版的Office 簡單的轉換為VOL版腳本激活方法：
 
 當您安装完成 Office Professional Plus  Retail 官方原版後，將下列的代碼用記事本貼上，再更改一下"192.168.xxx.xxxx "個一欄為KMS Server目標IP後將內容後保存為 .bat 文件，然後以管理員的權限運行，即可一步完成所有的激活操作
   
